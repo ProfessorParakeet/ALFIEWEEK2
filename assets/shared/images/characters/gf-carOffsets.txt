@@ -1,0 +1,3 @@
+danceLeft -100 0
+danceRight -100 0
+sad -98 -11

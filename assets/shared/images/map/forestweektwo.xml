@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="forestweektwo.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="halloweem bg0000" x="0" y="0" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0001" x="2386" y="0" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0002" x="4772" y="0" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0003" x="0" y="1410" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0004" x="2386" y="1410" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0005" x="4772" y="1410" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0006" x="0" y="2820" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0007" x="2386" y="2820" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0008" x="4772" y="2820" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0009" x="0" y="4230" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0010" x="4772" y="2820" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0011" x="2386" y="2820" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0012" x="0" y="2820" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0013" x="4772" y="1410" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0014" x="2386" y="1410" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0015" x="0" y="1410" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0016" x="4772" y="0" width="2381" height="1405"/>
+	<SubTexture name="halloweem bg0017" x="2386" y="0" width="2381" height="1405"/>
+	<SubTexture name="bell0000" x="2386" y="4230" width="2447" height="1533"/>
+	<SubTexture name="bell0001" x="2386" y="4230" width="2447" height="1533"/>
+	<SubTexture name="bell0002" x="2386" y="4230" width="2447" height="1533"/>
+	<SubTexture name="bell0003" x="2386" y="4230" width="2447" height="1533"/>
+	<SubTexture name="bell0004" x="2386" y="4230" width="2447" height="1533"/>
+</TextureAtlas>

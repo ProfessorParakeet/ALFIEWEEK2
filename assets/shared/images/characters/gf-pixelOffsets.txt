@@ -1,0 +1,3 @@
+danceLeft 35 10
+danceRight 35 10
+sad 37 -21

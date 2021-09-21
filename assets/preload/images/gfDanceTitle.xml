@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfDance0000" x="3" y="3" width="1087" height="671" frameX="350" frameY="-3" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0001" x="1095" y="3" width="1087" height="671" frameX="350" frameY="-3" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0002" x="2187" y="3" width="1087" height="671" frameX="350" frameY="-3" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0003" x="3279" y="3" width="1083" height="673" frameX="348" frameY="-1" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0004" x="4367" y="3" width="1083" height="673" frameX="348" frameY="-1" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0005" x="5455" y="3" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0006" x="6539" y="3" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0007" x="3" y="682" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0008" x="3" y="682" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0009" x="3" y="682" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0010" x="1087" y="682" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0011" x="1087" y="682" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0012" x="1087" y="682" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0013" x="2171" y="682" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0014" x="2171" y="682" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0015" x="3255" y="682" width="1087" height="671" frameX="350" frameY="-3" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0016" x="4347" y="682" width="1087" height="671" frameX="350" frameY="-3" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0017" x="5439" y="682" width="1083" height="673" frameX="348" frameY="-1" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0018" x="6527" y="682" width="1083" height="673" frameX="348" frameY="-1" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0019" x="3" y="1361" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0020" x="1087" y="1361" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0021" x="2171" y="1361" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0022" x="3255" y="1361" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0023" x="3255" y="1361" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0024" x="3255" y="1361" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0025" x="4339" y="1361" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0026" x="4339" y="1361" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0027" x="4339" y="1361" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0028" x="5423" y="1361" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+	<SubTexture name="gfDance0029" x="5423" y="1361" width="1079" height="674" frameX="346" frameY="0" frameWidth="1087" frameHeight="674"/>
+</TextureAtlas>
